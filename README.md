@@ -1,6 +1,4 @@
-<a href="#">
-<img align="left" hspace="5" src="https://github-readme-stats.vercel.app/api?username=slance&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&inc">
-</a>
+<img align="right" hspace="5" src="https://github-readme-stats.vercel.app/api?username=slance&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&inc">
 
 ### Hi there 👋
 
