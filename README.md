@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Home Page
-[Blog](https://blog.slance.net)
+Welcome to [My Blog](https://blog.slance.net)
 
 ![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
