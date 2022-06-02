@@ -27,3 +27,5 @@ Welcome to [My Blog](https://blog.slance.net)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
+
+![](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=slance.slance.readme)
